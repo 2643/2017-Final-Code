@@ -3,6 +3,7 @@ package org.usfirst.frc.team2643.robot;
 public class Climber
 {
 	/**
+	 * soundcloud.com/gabriel-budhiman
 	 * {@code climber()}: If the dPad is pressed up, then the climber motor will
 	 * set to positive. Else if the dPad is pressed down, then the climber will
 	 * set to negative. Else the climber will be set to 0.
